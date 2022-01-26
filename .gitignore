@@ -1,0 +1,6 @@
+# Idea
+.idea/
+# Dependency directories
+node_modules/
+# generate output
+dist

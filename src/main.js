@@ -1,5 +1,4 @@
-export const render =
-  `<header>
+export const render = `<header>
         <div class="app-name">
             <h1> Leaderboard </h1>
         </div>

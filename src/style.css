@@ -2,10 +2,12 @@ body {
   font-family: "Roboto Light", sans-serif;
   padding: 3% 5%;
   margin: 0;
+  background-image: url("../src/images/bg.jpeg");
 }
 
 .app-name {
   font-size: 3.2rem;
+  color: #fff;
 }
 
 .card-title h2 {
@@ -39,8 +41,13 @@ hr {
 }
 
 .shadow {
+  background-color: #fff;
   width: 30rem;
   box-shadow: rgba(0, 0, 0, 0.05) 0 6px 24px 0, rgba(0, 0, 0, 0.08) 0 0 0 1px;
+}
+
+.title {
+  color: #fff;
 }
 
 .row {

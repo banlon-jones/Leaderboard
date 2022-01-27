@@ -1,7 +1,7 @@
 # Leaderboard
 JavaScript project for the Leader-board list app, using webpack and ES6 features,
 
-![app-screenshot](./Screenshot_from_2022-01-27_17-18-33.png)
+![app-screenshot](./Screenshot.png)
 
 ## Built With 
  - HTML
